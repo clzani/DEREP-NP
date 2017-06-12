@@ -8,3 +8,4 @@ Quick Tips to Use the Database in DataWarrior
 5)	The yin-yang bouton in each search means a NOT Boolean and can be used to omit structures that comply to the query. 
 6)	For other functionalities read DataWarrior help.
 
+If you use this database, please cite the manuscript DOI: 10.1021/acs.jnatprod.6b01093
