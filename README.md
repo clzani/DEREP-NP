@@ -12,7 +12,9 @@ Quick Tips to Use the Database in DataWarrior
 
 
 Modifications in v2
+
 Date	Issue	status	Req/Sugg_by
+
 17/Jul/17	UNPD InChI and InChIKeys substituted using INDIGO2 InChi Node (KNIME)	Done	Prof. John Blunt
 
 17/Jul/17	8541 duplicated structures (using DW)	removed	Zani
