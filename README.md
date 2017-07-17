@@ -1,4 +1,5 @@
 # DEREP-NP-PUB-v2
+If you use this database, please cite the manuscript DOI: 10.1021/acs.jnatprod.6b01093
 
 Quick Tips to Use the Database in DataWarrior
 1)	When you open the DataWarrior file you downloaded, close all graphics windows and leave only the Table and Structures windows open.
@@ -8,7 +9,7 @@ Quick Tips to Use the Database in DataWarrior
 5)	The yin-yang bouton in each search means a NOT Boolean and can be used to omit structures that comply to the query. 
 6)	For other functionalities read DataWarrior help.
 
-If you use this database, please cite the manuscript DOI: 10.1021/acs.jnatprod.6b01093
+
 
 Modifications in v2
 Date	Issue	status	Req/Sugg_by
