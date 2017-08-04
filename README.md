@@ -1,7 +1,7 @@
 # DEREP-NP-PUB-v2
 If you use this database, please cite the manuscript DOI: 10.1021/acs.jnatprod.6b01093
 
-Having problems downloading/reconstituting the files from GH? Try downloading them full files from
+Having problems downloading/reconstituting the files from GH? Try downloading the full files from
 
 https://www.dropbox.com/sh/xbklrj25gxp8vtg/AAC6wwPrnay_mWdGHcAOM-eBa?dl=0
 
