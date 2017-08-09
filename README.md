@@ -1,5 +1,5 @@
 If you use this database, please cite: Zani CL & Carroll AR. 
-#Database for Rapid Dereplication of Known Natural Products Using Data from MS and Fast NMR Experiments.
+Database for Rapid Dereplication of Known Natural Products Using Data from MS and Fast NMR Experiments.
 J Nat Prod 80(6):1758-1766, 2017. DOI: 10.1021/acs.jnatprod.6b01093
 
 # DEREP-NP ChemFinder version
