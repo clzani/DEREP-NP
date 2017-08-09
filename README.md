@@ -6,9 +6,9 @@ J Nat Prod 80(6):1758-1766, 2017. DOI: 10.1021/acs.jnatprod.6b01093
 
 09/08/2017
 
-This is a really nice contribution from Prof. John Blunt, Professor Emeritus at School of Physical and Chemical Sciences, University of Canterbury, NEW ZEALAND.
+We are thankfull to Prof. John Blunt, Professor Emeritus at School of Physical and Chemical Sciences, University of Canterbury, NEW ZEALAND, for this nice version of DEREP-NP for ChemFinder users.
 
-If your CF version is newer than 5 you will be asked if you want to upgrade the files. No problems with that. Enjoy.
+If your ChemFinder version is newer than 5 you will be asked if you want to upgrade the files. No problems with that. Enjoy.
 
 https://www.dropbox.com/sh/g2qvc9leil85p7p/AADXgIxF7GPx62iioBaiFFOra?dl=0
 
