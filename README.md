@@ -1,3 +1,11 @@
+If you use this database, please cite the manuscript 
+
+Zani CL, Carroll AR.
+
+Database for Rapid Dereplication of Known Natural Products Using Data from MS and Fast NMR Experiments.
+
+J Nat Prod 80(6):1758-1766, 2017. DOI: 10.1021/acs.jnatprod.6b01093
+
 # DEREP-NP ChemFinder version
 
 09/08/2017
@@ -8,19 +16,16 @@ If your CF version is newer than 5 you will be asked if you want to upgrade the 
 
 https://www.dropbox.com/sh/g2qvc9leil85p7p/AADXgIxF7GPx62iioBaiFFOra?dl=0
 
-If you use this database, please cite the manuscript DOI: 10.1021/acs.jnatprod.6b01093
 
 # DEREP-NP-PUB-v2 DataWarrior version
 
-If you use this database, please cite the manuscript DOI: 10.1021/acs.jnatprod.6b01093
-
-20/07/2017
+15/07/2017
 
 Having problems downloading/reconstituting the files from GH? Try downloading the full files from
 
 https://www.dropbox.com/sh/xbklrj25gxp8vtg/AAC6wwPrnay_mWdGHcAOM-eBa?dl=0
 
-10/07/2017
+15/06/2017
 
 Quick Tips to Use the Database in DataWarrior
 1)	When you open the DataWarrior file you downloaded, close all graphics windows and leave only the Table and Structures windows open.
