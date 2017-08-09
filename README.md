@@ -1,6 +1,4 @@
-If you use this database, please cite the manuscript 
-
-Zani CL, Carroll AR.
+If you use this database, please cite: Zani CL, Carroll AR.
 
 Database for Rapid Dereplication of Known Natural Products Using Data from MS and Fast NMR Experiments.
 
