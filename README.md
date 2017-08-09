@@ -2,12 +2,12 @@
 
 09/08/2017
 
-
 This is a really nice contribution from Prof. John Blunt, Professor Emeritus at School of Physical and Chemical Sciences, University of Canterbury, NEW ZEALAND.
 
 If your CF version is newer than 5 you will be asked if you want to upgrade the files. No problems with that. Enjoy.
 
 https://www.dropbox.com/sh/g2qvc9leil85p7p/AADXgIxF7GPx62iioBaiFFOra?dl=0
+
 If you use this database, please cite the manuscript DOI: 10.1021/acs.jnatprod.6b01093
 
 # DEREP-NP-PUB-v2 DataWarrior version
