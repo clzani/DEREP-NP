@@ -1,9 +1,26 @@
-# DEREP-NP-PUB-v2
+# DEREP-NP ChemFinder version
+
+09/08/2017
+
+
+This is a really nice contribution from Prof. John Blunt, Professor Emeritus at School of Physical and Chemical Sciences, University of Canterbury, NEW ZEALAND.
+
+If your CF version is newer than 5 you will be asked if you want to upgrade the files. No problems with that. Enjoy.
+
+https://www.dropbox.com/sh/g2qvc9leil85p7p/AADXgIxF7GPx62iioBaiFFOra?dl=0
 If you use this database, please cite the manuscript DOI: 10.1021/acs.jnatprod.6b01093
+
+# DEREP-NP-PUB-v2 DataWarrior version
+
+If you use this database, please cite the manuscript DOI: 10.1021/acs.jnatprod.6b01093
+
+20/07/2017
 
 Having problems downloading/reconstituting the files from GH? Try downloading the full files from
 
 https://www.dropbox.com/sh/xbklrj25gxp8vtg/AAC6wwPrnay_mWdGHcAOM-eBa?dl=0
+
+10/07/2017
 
 Quick Tips to Use the Database in DataWarrior
 1)	When you open the DataWarrior file you downloaded, close all graphics windows and leave only the Table and Structures windows open.
