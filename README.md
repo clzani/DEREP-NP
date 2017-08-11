@@ -17,7 +17,7 @@ https://www.dropbox.com/sh/g2qvc9leil85p7p/AADXgIxF7GPx62iioBaiFFOra?dl=0
 
 15/07/2017
 
-Having problems downloading/reconstituting the files from GH? Try downloading the full files from
+Due to problems downloading/reconstituting zip files, please download the full files from
 
 https://www.dropbox.com/sh/xbklrj25gxp8vtg/AAC6wwPrnay_mWdGHcAOM-eBa?dl=0
 
