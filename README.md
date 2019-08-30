@@ -2,24 +2,16 @@ If you use this database, please cite: Zani CL & Carroll AR.
 Database for Rapid Dereplication of Known Natural Products Using Data from MS and Fast NMR Experiments.
 J Nat Prod 80(6):1758-1766, 2017. DOI: 10.1021/acs.jnatprod.6b01093
 
-# DEREP-NP ChemFinder version
-
-09/08/2017
-
-We are thankfull to Prof. John Blunt, Professor Emeritus at School of Physical and Chemical Sciences, University of Canterbury, NEW ZEALAND, for this nice version of DEREP-NP for ChemFinder users.
-
-If your ChemFinder version is newer than 5 you will be asked if you want to upgrade the files. No problems with that. Enjoy.
-
-https://www.dropbox.com/sh/g2qvc9leil85p7p/AADXgIxF7GPx62iioBaiFFOra?dl=0
 
 
-# DEREP-NP-PUB-v2 DataWarrior version
-
-15/07/2017
-
-Due to problems downloading/reconstituting zip files, please download the full files from
+# DEREP-NP-PUB-v2 DataWarrior version and
+# DEREP-NP ChemFinder version can be dowloaded at
 
 https://www.dropbox.com/sh/xbklrj25gxp8vtg/AAC6wwPrnay_mWdGHcAOM-eBa?dl=0
+
+
+We are thankfull to Prof. John Blunt, Professor Emeritus at School of Physical and Chemical Sciences, University of Canterbury, NEW ZEALAND, for this nice version of DEREP-NP for ChemFinder users. If your ChemFinder version is newer than 5 you will be asked if you want to upgrade the files. No problems with that. Enjoy.
+
 
 15/06/2017
 
