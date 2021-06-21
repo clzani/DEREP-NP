@@ -11,7 +11,7 @@ J Nat Prod 80(6):1758-1766, 2017. DOI: 10.1021/acs.jnatprod.6b01093
 https://www.dropbox.com/sh/xbklrj25gxp8vtg/AAC6wwPrnay_mWdGHcAOM-eBa?dl=0
 
 June 21, 2021
-DEREP-NP-COCONUT was added. We used the COlleCtion of Open NatUral producTs (COCONUT), a database with about 400,000 unique compounds. Duplicate compounds, as per the DataWarrior algorithm, were removed from the SDF file downloaded from (https://coconut.naturalproducts.net/ accessed on june 10th, 2021)
+DEREP-NP-COCONUT was added. We used the COlleCtion of Open NatUral producTs (COCONUT), a database with about 400,000 unique compounds. Duplicate compounds, as per the DataWarrior algorithm, were removed from the SDF file downloaded from (https://coconut.naturalproducts.net/ accessed on june 6th, 2021)
 
 
 
